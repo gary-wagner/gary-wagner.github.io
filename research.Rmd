@@ -1,0 +1,28 @@
+---
+title: "Research"
+description: |
+  Recent publications
+
+theme: theme.css
+code_folding: true
+---
+
+Wagner, Gary A. and Erick M. Elder. Forthcoming. "Campaigning for Retirement: State Teacher Union Campaign Contributions and Pension Generosity." *European Journal of Political Economy*.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PDF](https://doi.org/10.1016/j.ejpoleco.2020.101991) | Replication Data
+<br><br>
+
+Komarek, Timothy M. and Gary A. Wagner. 2021. "Local Fiscal Adjustments From Depopulation: Evidence From The Post–Cold War Defense Contraction." *National Tax Journal*, 74(1), 9-43.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PDF](https://doi.org/10.1086/712917) | Replication Data
+<br><br>
+
+Komarek, Timothy M. and Gary A. Wagner. 2020. "The Distributional Effects of Job Loss From Fiscal Consolidation: Evidence from The Budget Control Act of 2011." *Economics Letters*, 196, Article 109515.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PDF](https://doi.org/10.1016/j.econlet.2020.109515) | Replication Data
+<br><br>
+
+Wagner, Gary A. and Jaime Bologna Pavlik. 2020. "Patent Intensity and Concentration: The Effect of Institutional Quality on MSA Patent Activity." *Papers in Regional Science*, 99(4), 857-898.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PDF](https://doi.org/10.1111/pirs.12515) | Replication Data
+<br><br>
+
+
+
+

@@ -1,0 +1,13 @@
+---
+title: "Gary A. Wagner"
+description:  |
+  Acadiana Business Economist Endowed Chair  
+  Professor of Economics
+site: distill::distill_website
+theme: theme.css
+---
+
+```{r, out.width="55%", out.height="55%", echo=F}
+knitr::include_graphics("wagner.jpg")
+
+```
