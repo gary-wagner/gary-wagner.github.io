@@ -7,6 +7,10 @@ theme: theme.css
 code_folding: true
 ---
 
+Portillo, Javier E. and Gary A. Wagner. Forthcoming. "Do Cultural Districts Spur Urban Revitalization: Evidence from Louisiana." *Journal of Economic Behavior & Organization*.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PDF | Replication Data
+<br><br>
+
 Wagner, Gary A. and Erick M. Elder. Forthcoming. "Campaigning for Retirement: State Teacher Union Campaign Contributions and Pension Generosity." *European Journal of Political Economy*.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PDF](https://doi.org/10.1016/j.ejpoleco.2020.101991) | Replication Data
 <br><br>
